@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "6819a21ad37e4b5a6b2e1646"
+  },
+  "category": "engineer",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6819b9abfc8657e285a4e029"
+  },
+  "category": "doctor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6819bcea4f5a021d3fe5083a"
+  },
+  "category": "doctor",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6819c85f4f5a021d3fe5084c"
+  },
+  "category": "nursing",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6819d6c44f5a021d3fe5085b"
+  },
+  "category": "engineering",
+  "__v": 0
+}]

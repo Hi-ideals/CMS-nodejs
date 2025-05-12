@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "681da234f313e103e4bf6cd7"
+  },
+  "country": "India",
+  "countryCode": 91,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681da252f313e103e4bf6cd9"
+  },
+  "country": "India",
+  "countryCode": 91,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681da4202f45d925bf2e6a79"
+  },
+  "country": "India",
+  "countryCode": 91,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681dafab940fe2b883e5f39d"
+  },
+  "country": "usa",
+  "countryCode": 98,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "681dd842313db4096bc4c48e"
+  },
+  "country": "India4",
+  "countryCode": 32,
+  "__v": 0
+}]
